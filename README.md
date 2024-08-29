@@ -1,4 +1,4 @@
-# TV-Show-Recommender-AI
+# TV Show Recommender AI
 I created a **Python** program called "ShowSuggesterAI" that provides personalized TV show recommendations based on user input.
 The program utilized **embeddings and vectors** to represent TV show descriptions and calculate similarities.
 **Fuzzy string matching** was used to match user input with existing TV show names, employing libraries like thefuzz.
